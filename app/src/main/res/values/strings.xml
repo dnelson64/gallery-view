@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gallery-view</string>
+    <string name="contentDescription">Image or Video Thumbnail</string>
+</resources>
